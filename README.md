@@ -13,8 +13,8 @@ Rust projects:
 
 Go projects:
 
-- [Simple password hash library](https://github.com/lichuan6/go-bcrypt-encryptor)
-- [FluentBit Pulsar plugin in GoLang](https://github.com/lichuan6/fluent-bit-pulsar-go)
+- [Simple password encryption library](https://github.com/lichuan6/go-bcrypt-encryptor)
+- [FluentBit Pulsar plugin in GoLang for logging processing](https://github.com/lichuan6/fluent-bit-pulsar-go)
 
 <!---
 lichuan6/lichuan6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

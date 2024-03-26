@@ -7,6 +7,7 @@
 
 Rust projects:
 
+- [Log service based on ClickHouse](https://www.youtube.com/watch?v=G1Gm7iKLaBU)
 - [Pulsar messages to Elasticsearch sinker](https://github.com/lichuan6/pulsar-elasticsearch-sync-rs)
 - [Log pattern viewer - TUI](https://github.com/lichuan6/log-pattern-viewer)
 - [A Elasticsearch snapshot management tool](https://github.com/lichuan6/elasticsearch-index-cleaner)

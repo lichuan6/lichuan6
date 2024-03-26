@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me lichuan.shang@gmail.com
+- 📖 Blog: https://lichuan6.github.io/
 
-Rust:
+Rust projects:
 
 - [Pulsar messages to Elasticsearch sinker](https://github.com/lichuan6/pulsar-elasticsearch-sync-rs)
 - [Log pattern viewer - TUI](https://github.com/lichuan6/log-pattern-viewer)

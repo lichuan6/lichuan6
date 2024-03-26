@@ -11,6 +11,11 @@ Rust projects:
 - [Log pattern viewer - TUI](https://github.com/lichuan6/log-pattern-viewer)
 - [A Elasticsearch snapshot management tool](https://github.com/lichuan6/elasticsearch-index-cleaner)
 
+Go projects:
+
+- [Simple password hash library](https://github.com/lichuan6/go-bcrypt-encryptor)
+- [FluentBit Pulsar plugin in GoLang](https://github.com/lichuan6/fluent-bit-pulsar-go)
+
 <!---
 lichuan6/lichuan6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

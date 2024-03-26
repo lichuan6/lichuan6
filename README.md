@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me lichuan.shang@gmail.com
 
+Rust:
+
+- [Pulsar messages to Elasticsearch sinker](https://github.com/lichuan6/pulsar-elasticsearch-sync-rs)
+- [Log pattern viewer - TUI](https://github.com/lichuan6/log-pattern-viewer)
+- [A Elasticsearch snapshot management tool](https://github.com/lichuan6/elasticsearch-index-cleaner)
+
 <!---
 lichuan6/lichuan6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
